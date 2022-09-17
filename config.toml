@@ -16,8 +16,7 @@ author = "Jeremy Olliffe"
 description = "Jeremy Olliffe's Portfolio"
 keywords = "portfolio,developer,personal"
 info = ["Full Stack Developer", "Mechatronics Student"]
-avatarURL = "images/avatar.jpg"
-#gravatar = "john.doe@example.com"
+avatarURL = "blackandwhite.jpg"
 dateFormat = "January 2, 2006"
 since = 2022
 # Git Commit in Footer, uncomment the line below to enable it
@@ -109,16 +108,10 @@ weight = 1
 url = "https://github.com/jolliff3/"
 
 [[params.social]]
-name = "Twitter"
-icon = "fa fa-2x fa-twitter"
-weight = 3
-url = "https://twitter.com/jolliff3/"
-
-[[params.social]]
 name = "LinkedIn"
 icon = "fa fa-2x fa-linkedin"
 weight = 4
-url = "https://www.linkedin.com/in/jeremyolliffe/"
+url = "https://www.linkedin.com/in/jeremy-olliffe-533b6215b/"
 
 [languages.en]
 languageName = ":uk:"
