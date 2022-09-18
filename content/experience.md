@@ -5,6 +5,10 @@ date = "2022-09-18"
 author = "Jeremy Olliffe"
 +++
 
-I have experience
+[Cover Letter](/docs/coverletter.pdf)
 
-[Reflection 1]({{< ref "/posts/reflection" >}} "Reflection 1")
+[Resume](/docs/resume.pdf)
+
+[Reflection 1]({{< ref "/posts/reflection1" >}} "Reflection 1")
+
+[Reflection 2]({{< ref "/posts/reflection2" >}} "Reflection 2")
