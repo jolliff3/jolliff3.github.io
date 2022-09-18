@@ -5,6 +5,8 @@ date = "2022-09-18"
 description = "A reflection submitted as part of a university assignment."
 +++
 
+![Image](/images/flags.webp)
+
 Each week at work, one person or team will give a presentation to the rest of the workplace with the goal of knowledge sharing and education. One week, one team member gave a presentation on a recent business trip to Europe where they engaged with other electric vehicle charging companies. This presentation focused on three delivery companies and how policies in Europe had encouraged a quicker adoption of Electric vehicles then otherwise would have been feasible.
 
 As part of this presentation, we saw statistics about how Australia compares to other countries when it comes to electric vehicle adoption and renewable energy. On the international stage, in comparison to other developed nations, Australia is being outperformed and has some of the least ambitious targets. Upon hearing this I felt disappointed. Although not particularly patriotic, I believe that if Australia was leading the world in something as important as emissions standards I would feel proud.
