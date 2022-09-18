@@ -13,7 +13,7 @@ After spending a lot of time reading about renewable energy generation certifica
 
 I spoke with my supervisor about the various ideas I had, as well as my concerns. I found our discussion to be helpful and he echoed my concerns that as a business we shouldn’t be striving to do the bare minimum, but he encouraged me to continue exploring the green energy certificates and the policy surrounding them to better understand them.
 
-In Engineers Australia sustainability policy (Sustainability Policy, 2014), one of the ways members must promote sustainable practices is through understanding: “[members must] maintain an up-to-date knowledge and understanding of sustainability principles, and practices relevant to their area of practice”. As I read through this
+In Engineers Australia sustainability policy (Sustainability Policy, 2014), one of the ways members must promote sustainable practices is through understanding: “[members must] maintain an up-to-date knowledge and understanding of sustainability principles, and practices relevant to their area of practice”. As I read this, I became aware that not only is it useful to understand a topic - it is an engineer's responsibility to understand.
 
 &nbsp;
 &nbsp;
