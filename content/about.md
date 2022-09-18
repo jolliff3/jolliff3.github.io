@@ -1,8 +1,10 @@
----
-title: "About Me"
-date: 2022-09-10T14:28:59+10:00
-draft: true
----
++++
+title = "About"
+description = ""
+date = "2022-09-18"
+aliases = ["about-us", "about-hugo", "contact"]
+author = "Jeremy Olliffe"
++++
 
 I am a fifth year Mechatronics Engineering and German Language and Culture student currently working as a software engineer for Evie Networks in the electric vehicle charging infrastructure space.
 

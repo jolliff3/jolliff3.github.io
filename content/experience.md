@@ -1,7 +1,10 @@
----
-title: "Work Experience"
-date: 2022-09-18T14:28:59+10:00
-draft: true
----
++++
+title = "Experience"
+description = ""
+date = "2022-09-18"
+author = "Jeremy Olliffe"
++++
 
-Hi
+I have experience
+
+[Reflection 1]({{< ref "/posts/reflection" >}} "Reflection 1")

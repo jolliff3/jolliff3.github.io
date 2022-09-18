@@ -16,7 +16,7 @@ author = "Jeremy Olliffe"
 description = "Jeremy Olliffe's Portfolio"
 keywords = "portfolio,developer,personal"
 info = ["Full Stack Developer", "Mechatronics Student"]
-avatarURL = "blackandwhite.jpg"
+avatarURL = "images/blackandwhite.jpg"
 dateFormat = "January 2, 2006"
 since = 2022
 # Git Commit in Footer, uncomment the line below to enable it
@@ -119,14 +119,14 @@ languageName = ":uk:"
 [[languages.en.menu.main]]
 name = "About"
 weight = 1
-url = "about/"
+url = "/about/"
 
 [[languages.en.menu.main]]
 name = "Work Experience"
 weight = 2
-url = "experience/"
+url = "/experience/"
 
 [[languages.en.menu.main]]
 name = "Contact me"
 weight = 3
-url = "contact/"
+url = "/contact/"
