@@ -110,17 +110,17 @@ url = "https://github.com/jolliff3/"
 [languages.en]
 languageName = ":uk:"
 
-[[languages.en.menu.main]]
-name = "About"
-weight = 1
-url = "/about/"
-
-[[languages.en.menu.main]]
-name = "Experience"
-weight = 2
-url = "/experience/"
-
-[[languages.en.menu.main]]
-name = "Contact me"
-weight = 3
-url = "/contact/"
+# [[languages.en.menu.main]]
+# name = "About"
+# weight = 1
+# url = "/about/"
+# 
+# [[languages.en.menu.main]]
+# name = "Experience"
+# weight = 2
+# url = "/experience/"
+# 
+# [[languages.en.menu.main]]
+# name = "Contact me"
+# weight = 3
+# url = "/contact/"
