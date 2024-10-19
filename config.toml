@@ -3,7 +3,7 @@ title = "Jeremy Olliffe"
 theme = "hugo-coder"
 languageCode = "en"
 defaultContentLanguage = "en"
-paginate = 20
+pagination.pagerSize = 20
 pygmentsStyle = "bw"
 pygmentsCodeFences = true
 pygmentsCodeFencesGuessSyntax = true
@@ -15,7 +15,7 @@ author = "Jeremy Olliffe"
 # license = '<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA-4.0</a>'
 description = "Jeremy Olliffe's Portfolio"
 keywords = "portfolio,developer,personal"
-info = ["Full Stack Developer", "Mechatronics Student"]
+info = ["Developer and Engineer"]
 avatarURL = "images/blackandwhite.jpg"
 dateFormat = "January 2, 2006"
 since = 2022
@@ -106,12 +106,6 @@ name = "Github"
 icon = "fa fa-2x fa-github"
 weight = 1
 url = "https://github.com/jolliff3/"
-
-[[params.social]]
-name = "LinkedIn"
-icon = "fa fa-2x fa-linkedin"
-weight = 4
-url = "https://www.linkedin.com/in/jeremy-olliffe-533b6215b/"
 
 [languages.en]
 languageName = ":uk:"
